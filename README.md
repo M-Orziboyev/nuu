@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-orziboyev&label=Profile%20views&color=0e75b6&style=flat" alt="m-orziboyev" /> </p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=m-orziboyev" alt="m-orziboyev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ### about
 - building software that **shapes behavior, not just interfaces**
 - deeply interested in **persuasive systems, habit formation, and behavioral design**
@@ -38,8 +34,3 @@ backend    → node.js, apis
         <img src="https://img.shields.io/github/followers/M-Orziboyev?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-orziboyev&" alt="m-orziboyev" /></p>
